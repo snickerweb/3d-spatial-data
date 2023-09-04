@@ -67,6 +67,9 @@ If you know about more interesting 3D data sources, please open issues with link
 - Saxony (lod1 + lod2)
   https://www.geodaten.sachsen.de/digitale-hoehenmodelle-3994.html
 
+- Bavaria (lod2)
+  https://geodaten.bayern.de/opengeodata/OpenDataDetail.html?pn=lod2
+
 ## Netherlands
 
 - Rotterdam (lod2 + texture)
